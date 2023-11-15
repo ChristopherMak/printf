@@ -2,8 +2,8 @@
 
 
 /**
- * print_char - A funct that prints a character.
- * @val: The arguments.
+ * print_char - this is a funct that prints a character
+ * @val: arguments
  * Return: 1.
  */
 

@@ -1,7 +1,7 @@
 #include "alx.h"
 
 /**
- * print_37 - prints the char %.
+ * print_37 - this prints the char %.
  * Return: 1.
  */
 

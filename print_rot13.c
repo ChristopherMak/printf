@@ -1,9 +1,10 @@
 #include "alx.h"
 
 /**
- * print_rot13 - A funct that prints str to ROT13.
- * @args: The type struct va_arg where is allocated printf arguments.
- * Return: The counter.
+ * print_rot13 - this is a function that prints str to ROT13
+ * @args: type struct va_arg where is allocated printf arguments
+ *
+ * Return: counter
  */
 
 int print_rot13(va_list args)

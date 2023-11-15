@@ -1,9 +1,9 @@
 #include "alx.h"
 
 /**
- * print_H_deci - A funct that prints an hexgecimal number.
- * @num: A number to print.
- * Return: A counter.
+ * print_H_deci - this is a function that prints an hexgecimal number
+ * @num: the number to print
+ * Return: counter
  */
 int print_H_deci(unsigned int num)
 {

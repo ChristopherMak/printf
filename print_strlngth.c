@@ -1,9 +1,10 @@
 #include "alx.h"
 
 /**
- * _strlen - Afunct that returns the lenght of a string.
- * @s: The type char pointer.
- * Return: m.
+ * _strlen - this is a function that returns the lenght of a string
+ * @s: type char pointer
+ *
+ * Return: m
  */
 
 int _strlen(char *s)
@@ -16,9 +17,10 @@ int _strlen(char *s)
 
 }
 /**
- * _strlenc - The strlen function applied to constant char pointer s.
- * @s: The type char pointer.
- * Return: m.
+ * _strlenc - strlen funct applied to constant char pointer s
+ * @s: type char pointer
+ *
+ * Return: m
  */
 
 int _strlenc(const char *s)

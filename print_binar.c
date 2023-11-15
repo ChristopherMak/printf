@@ -1,8 +1,8 @@
 #include "alx.h"
 
 /**
- * print_binar - A funct that prints a binary number.
- * @val: The arguments.
+ * print_binar - this is a function that prints a binary number
+ * @val: arguments
  * Return: 1.
  */
 

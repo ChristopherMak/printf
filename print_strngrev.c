@@ -1,9 +1,10 @@
 #include "alx.h"
 
 /**
- * print_strngrev - A funct that prints a str in reverse.
- * @args: The type struct va_arg allocated to print arguments.
- * Return: The string.
+ * print_strngrev - this is a function that prints a str in reverse
+ * @args: type struct va_arg allocated to print arguments
+ *
+ * Return: string
  */
 
 int print_strngrev(va_list args)

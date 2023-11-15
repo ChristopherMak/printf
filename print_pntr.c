@@ -1,9 +1,10 @@
 #include "alx.h"
 
 /**
- * print_pntr - A funct that prints an hexgecimal number.
- * @val: The arguments.
- * Return: The counter.
+ * print_pntr - this is a function that prints an hexgecimal number
+ * @val: arguments
+ *
+ * Return: The counter
  */
 
 int print_pntr(va_list val)

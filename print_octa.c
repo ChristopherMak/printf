@@ -1,9 +1,10 @@
 #include "alx.h"
 
 /**
- * print_octa - A funct that prints an octal number.
- * @val: The arguments.
- * Return: The counter.
+ * print_octa - this is a function that prints an octal number
+ * @val: arguments
+ *
+ * Return: counter
  */
 
 int print_octa(va_list val)

@@ -1,9 +1,10 @@
 #include "alx.h"
 
 /**
- * print_intgr - A funct that prints an integer.
- * @args: The argument to print.
- * Return: The number of characters printed.
+ * print_intgr - this is a funct that prints an integer
+ * @args: argument to be printed
+ *
+ * Return: number of characters printed
  */
 
 int print_intgr(va_list args)
@@ -46,9 +47,10 @@ int print_intgr(va_list args)
 }
 
 /**
- * print_deci - The funt that prints a decimal.
- * @args: The argument to print.
- * Return: The number of characters printed.
+ * print_deci - function that prints a decimal
+ * @args: arguments to be printed
+ *
+ * Return: number of characters printed
  */
 
 int print_deci(va_list args)

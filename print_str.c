@@ -1,9 +1,10 @@
 #include "alx.h"
 
 /**
- * print_str - A funct that prints a string.
- * @val: The argument.
- * Return: The length of the string.
+ * print_str - this is a function that prints a string
+ * @val: arguments
+ *
+ * Return: length of the string
  */
 
 int print_str(va_list val)

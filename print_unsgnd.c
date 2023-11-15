@@ -1,9 +1,10 @@
 #include "alx.h"
 
 /**
- * print_unsigned - A funct that prints an integer.
- * @args: The argument to print.
- * Return: The number of characters printed.
+ * print_unsigned - this is a function that prints an integer
+ * @args: arguments to be printed
+ *
+ * Return: number of characters printed
  */
 
 int print_unsigned(va_list args)

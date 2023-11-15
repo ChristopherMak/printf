@@ -1,9 +1,9 @@
 #include "alx.h"
 
 /**
- * print_h - A funct that prints an hexadecimal number.
- * @val: The arguments.
- * Return: The counter.
+ * print_h - this is a funct that prints an hexadecimal number
+ * @val: arguments
+ * Return: counter
  */
 
 int print_h(va_list val)

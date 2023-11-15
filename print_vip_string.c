@@ -1,9 +1,10 @@
 #include "alx.h"
 
 /**
- * print_vip_string - A funct that prints vip string.
- * @val: The argument.
- * Return: The length of the string.
+ * print_vip_string - this is a function that prints vip string
+ * @val: arguments
+ *
+ * Return: length of a string
  */
 
 int print_vip_string(va_list val)

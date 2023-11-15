@@ -1,9 +1,9 @@
 #include "alx.h"
 
 /**
- * print_H - A funct that prints an hexgecimal number.
- * @val: The arguments.
- * Return: The counter.
+ * print_H - this is a funct that prints an hexgecimal number
+ * @val: arguments
+ * Return: counter
  */
 
 int print_H(va_list val)
